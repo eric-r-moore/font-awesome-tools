@@ -6,7 +6,7 @@
 FontCreator ：号称世界上最流行的字体编辑器，日下载量 450W
 - http://www.high-logic.com/font-editor/fontcreator.html
 
-Fontlab Ltd. 出品的字体编辑器，包括 FontLab Studio （用于专业性质的开发）、 Fontographer （面向设计师）、 TypeTool （用于最基本的开发）、 AsiaFont Studio （针对东亚文字）、 BitFonter （开发位图字体）、 ScanFont （变扫描图像为字体）、 TransType （转换字体格式）
+Fontlab Ltd. 出品的字体编辑器，包括 FontLab Studio （用于专业性质的开发）、 Fontographer （面向设计师）、 TypeTool （用于最基本的开发）、 AsiaFont Studio （针对东亚文字）、 BitFonter （开发位图字体）、 ScanFont （变扫描图像为字体）、 TransType （转换字体格式）、Hibizcus （验证和调试南亚和东南亚脚本的字体）
 - http://www.fontlab.com/
 
 Corel DREW ，内置字体编辑功能
