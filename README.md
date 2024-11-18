@@ -20,17 +20,11 @@ FontForge ，国际上知名的 FOSS 字体编辑器
 RoboFont，UFO 字体格式编辑器
 
 ## 字体开发文档
-微软
-https://www.microsoft.com/en-us/Typography/DevOverview.aspx
-
-Adobe
-http://www.adobe.com/devnet/opentype.html
-
-苹果
-https://developer.apple.com/fonts/
-
-SIL
-http://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_dev
+- [Microsoft Typography documentation](https://www.microsoft.com/en-us/Typography/DevOverview.aspx)
+- [Adobe Type and type technology](http://www.adobe.com/devnet/opentype.html)
+- [Fonts for Apple platforms](https://developer.apple.com/fonts/)
+- [Computers & Writing Systems](https://scripts.sil.org/default)
+- [Unified Font Object (UFO)](https://unifiedfontobject.org/)
 
 ## Reference
 - https://superdevresources.com/create-your-own-font/
